@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "smartystreets-ios-sdk"
+  spec.name         = "SmartyStreets"
   spec.version      = "8.4.1"
   spec.summary      = "The official client libraries for accessing SmartyStreets APIs from iOS"
   spec.homepage     = "https://smartystreets.com/docs/sdk/ios"
